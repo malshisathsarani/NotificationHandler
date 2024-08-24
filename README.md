@@ -3,7 +3,7 @@
 
 ## Badges
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/bestPASS-green" alt="BestPASS Badge" hspace="10"/>
   <img src="https://img.shields.io/badge/flutter-blue?logo=flutter&labelColor=blue&color=blue" alt="Flutter Badge" hspace="10"/>
   <img src="https://img.shields.io/badge/github-blue?logo=github&labelColor=black&color=blue" alt="GitHub Badge" hspace="10"/>
