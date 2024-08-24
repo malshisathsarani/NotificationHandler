@@ -34,4 +34,4 @@ Please open an issue or submit a pull request for any improvements or suggestion
 
 ## Screenshots
 
-![App Screenshot]([https://github.com/malshisathsarani/ChatBot_UI/commit/c568d05b16ff1cf01bbca0bcaecc5b17db3018bc](https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg))
+![App Screenshot](https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg)
