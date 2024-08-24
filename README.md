@@ -34,4 +34,5 @@ Please open an issue or submit a pull request for any improvements or suggestion
 
 ## Screenshots
 
-![App Screenshot](https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg)
+<img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg" alt="App Screenshot" width="400" height="300"/>
+
