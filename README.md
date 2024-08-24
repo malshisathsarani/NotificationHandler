@@ -1,16 +1,37 @@
-# notification_handler
 
-A new Flutter project.
+# Flutter Notifications Handler
 
-## Getting Started
+# Overview
+Title: Notification Handler in Flutter
+Description: A Flutter application that sends notifications to the user at regular intervals or based on specific triggers.
 
-This project is a starting point for a Flutter application.
+## Features
+Push Notifications: Receive notifications based on time intervals or events.
+Customizable Notifications: Set custom messages, sounds, and vibration patterns.
+Scheduling Notifications: Schedule notifications to appear at specific times.
+Background Notifications: Notifications that work even when the app is not in the foreground.
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [@malshisathsarani](https://github.com/malshisathsarani)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Please open an issue or submit a pull request for any improvements or suggestions.
+
+## Badges
+
+![Static Badge](https://img.shields.io/badge/bestPASS-green) 
+
+![Static Badge](https://img.shields.io/badge/flutter-blue?logo=flutter&labelColor=blue&color=blue)
+
+![Static Badge](https://img.shields.io/badge/github-blue?logo=github&labelColor=black&color=blue)
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/malshisathsarani/ChatBot_UI/commit/c568d05b16ff1cf01bbca0bcaecc5b17db3018bc)
