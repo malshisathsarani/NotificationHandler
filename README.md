@@ -21,9 +21,9 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg" alt="App Screenshot 1" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="15"/>
-  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37.jpeg" alt="App Screenshot 2" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="15"/>
-  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.38.jpeg" alt="App Screenshot 3" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="15"/>
+  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37%20(1).jpeg" alt="App Screenshot 1" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="10"/>
+  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.37.jpeg" alt="App Screenshot 2" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="10"/>
+  <img src="https://github.com/malshisathsarani/NotificationHandler/blob/main/WhatsApp%20Image%202024-08-24%20at%2006.51.38.jpeg" alt="App Screenshot 3" width="250" height="400" style="border: 3px solid #4CAF50; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" hspace="10"/>
 </p>
 
 ## 👩‍💻 Authors
